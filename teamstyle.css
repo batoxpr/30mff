@@ -1,0 +1,46 @@
+body {
+  background-image: url(images/teamback.png);
+  background-size: cover;
+}
+
+  .back {
+    position: fixed;
+    z-index: 0;
+    top: 12px;
+    left: 12px;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+  .back:hover{
+    opacity: 0.6;
+  }
+
+.bato {
+  position: absolute;
+  z-index: 0;
+  top: 80px;
+  left: 90px;
+  opacity: 0.9;
+  transition: 250ms;
+}
+
+.bato:hover{
+  opacity: 1;
+  transform: translateX(+50px)
+}
+
+
+.abdullah {
+  position: absolute;
+  z-index: 0;
+  top: 80px;
+  left: 900px;
+  opacity: 0.9;
+  transition: 250ms;
+}
+
+.abdullah:hover{
+  opacity: 1;
+  transform: translateX(-50px)
+}

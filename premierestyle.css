@@ -1,0 +1,23 @@
+body {
+  background-image: url(images/teamback.png);
+  background-size: 100%;
+}
+
+  .premiere {
+    width: 1080px;
+    height: 720px;
+    position: absolute;
+    top: 0; left: 0;
+    bottom: 0; right: 0;
+    margin: auto;}
+
+  .back {
+    position: fixed;
+    z-index: 0;
+    top: 12px;
+    left: 12px;
+    opacity: 1;
+    transition: 0.3s;}
+
+  .back:hover{
+    opacity: 0.6;}
