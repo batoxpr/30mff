@@ -2,7 +2,7 @@
 •Project name:	30MFF – Website Assignment - Bato
 
 •	Project Description: Our film is shot in a simple vlog style. 
-To reflect the simplicity of the content, I wanted to focus on a minimalistic design, with small intricate details and interactivity. 
+To reflect the simplicity of the content, I wanted to focus on minimalistic design, with small intricate details and interactivity. 
 To set the "morning vlog" theme, I chose color pallete consisting of pastel blue and yellow. 
 
 •	Process: I mainly used Adobe XD to design the logos and objects of my website. 
