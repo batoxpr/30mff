@@ -2,6 +2,7 @@
 body {
   background-image: url(images/background2.gif);
   background-size:cover;
+  background-attachment: fixed;
 }
 
 .burgermenu{
