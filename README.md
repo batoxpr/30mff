@@ -3,7 +3,7 @@
 
 •	Project Description: Our film is shot in a simple vlog style. 
 To reflect the simplicity of the content, I wanted to focus on minimalistic design, with small intricate details and interactivity. 
-To set the "morning vlog" theme, I chose color pallete consisting of pastel blue and yellow. 
+To set the "morning vlog" theme, I chose a color pallete consisting of pastel blue and yellow. 
 
 •	Process: I mainly used Adobe XD to design the logos and objects of my website. 
 For the premiere,  embedded the youtube video to the page as it seemed like a better solution. 
