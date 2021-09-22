@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
 
+    <meta charset="utf-8">
+    <title> *home page* </title>
+    <link rel="stylesheet" href="indexstyle.css">
+
+  </head>
+  <body>
+
+    <div class ="burgermenu">
+      <a href="page2.html">
+        <img src="images/pause_menu.png" alt="page 2 disguised as a pause button">
+      </a>
+    </div>
+
+    <div class ="name">
+      <a href="premiere.html">
+        <img src="images/name.png" alt="A name of the film">
+      </a>
+    </div>
+
+    <div class ="team">
+      <a href="team.html">
+        <img src="images/contact.png" alt="directs to the introduction page">
+      </a>
+    </div>
+
+    <div class="premiere">
+      <img src="images/premiere.png" alt="directs to the premiere window">
+    </div>
+
+  </body>
+</html>
